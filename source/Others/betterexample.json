@@ -1,0 +1,78 @@
+{
+    "alumno": "SOLORZANO MALDONADO ANDRE", 
+    "campus": "CENTRO UNIVERSITARIO DE CIENCIAS EXACTAS E INGENIERIAS", 
+    "carrera": "INFO", 
+    "ciclo": "2024-B", 
+    "horario": [
+        {
+            "aula": "LC04", 
+            "clave_materia": "I5909", 
+            "creditos": "8", 
+            "crn": "138628", 
+            "dias": "M,J", 
+            "edificio": "DUCT2", 
+            "fecha_fin": "2024-12-14 00:00:00.0", 
+            "fecha_inicio": "2024-08-12 00:00:00.0", 
+            "horario": "1700-1855", 
+            "nombre_materia": "PROGRAMACION PARA INTERNET", 
+            "profesor": "JIMENEZ RODRIGUEZ MARIO", 
+            "seccion": "D07"
+        }, 
+        {
+            "aula": "A006", 
+            "clave_materia": "I9889", 
+            "creditos": "8", 
+            "crn": "154481", 
+            "dias": "M,J", 
+            "edificio": "DEDT", 
+            "fecha_fin": "2024-12-14 00:00:00.0", 
+            "fecha_inicio": "2024-08-12 00:00:00.0", 
+            "horario": "1500-1655", 
+            "nombre_materia": "DISEÑO DE INTERFACES", 
+            "profesor": "AYALA HERNANDEZ LUIS ERNESTO", 
+            "seccion": "D01"
+        }, 
+        {
+            "aula": "A019", 
+            "clave_materia": "IL361", 
+            "creditos": "8", 
+            "crn": "204951", 
+            "dias": "L,I", 
+            "edificio": "DEDX", 
+            "fecha_fin": "2024-12-14 00:00:00.0", 
+            "fecha_inicio": "2024-08-12 00:00:00.0", 
+            "horario": "1500-1655", 
+            "nombre_materia": "FUNDAMENTOS DE INTELIGENCIA ARTIFICIAL", 
+            "profesor": "RIOS ARRAÑAGA JORGE DANIEL", 
+            "seccion": "D01"
+        }, 
+        {
+            "aula": "LC07", 
+            "clave_materia": "I5629", 
+            "creditos": "8", 
+            "crn": "210923", 
+            "dias": "V", 
+            "edificio": "DUCT2", 
+            "fecha_fin": "2024-12-14 00:00:00.0", 
+            "fecha_inicio": "2024-08-12 00:00:00.0",
+            "horario": "1700-2055", 
+            "nombre_materia": "ARQUITECTURA DE COMPUTADORAS", 
+            "profesor": "VALDES LOPEZ JULIO ESTEBAN", 
+            "seccion": "D10"
+        }, 
+        {
+            "aula": "A010", 
+            "clave_materia": "V0730", 
+            "creditos": "8", 
+            "crn": "211882", 
+            "dias": "L,I", 
+            "edificio": "DEDX", 
+            "fecha_fin": "2024-12-14 00:00:00.0", 
+            "fecha_inicio": "2024-08-12 00:00:00.0", 
+            "horario": "1700-1855", 
+            "nombre_materia": "INFORMATICA ADMINISTRATIVA", 
+            "profesor": "QUIROZ PEREZ ERIKA LIZETH", 
+            "seccion": "D02"
+        }
+    ]
+}

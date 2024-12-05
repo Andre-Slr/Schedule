@@ -1,0 +1,90 @@
+{
+    "alumno":"AMARO GRANERO JORGE ALEJANDRO",
+    "carrera":"INCO",
+    "campus":"CENTRO UNIVERSITARIO DE CIENCIAS EXACTAS E INGENIERIAS",
+    "ciclo":"2024-A", 
+    "horario": [
+        {
+            "crn":"124885",
+            "clave_materia":"I7033",
+            "nombre_materia":"SISTEMAS OPERATIVOS DE RED",
+            "seccion":"D02",
+            "creditos":"8",
+            "horario":"1900-2055",
+            "dias":"L,I",
+            "edificio":"DEDX",
+            "aula":"A014",
+            "profesor":"LANDA HORTA DANIEL OMAR",
+            "fecha_inicio":"2024-01-16 00:00:00.0",
+            "fecha_fin":"2024-06-01 00:00:00.0"
+        }, 
+        {
+            "crn":"124889",
+            "clave_materia":"I7035",
+            "nombre_materia":"SISTEMAS CONCURRENTES Y DISTRIBUIDOS",
+            "seccion":"D02",
+            "creditos":"8",
+            "horario":"1500-1655",
+            "dias":"M,J",
+            "edificio":"DEDX",
+            "aula":"A019",
+            "profesor":"MORALES CASTAÑEDA JUAN BERNARDO",
+            "fecha_inicio":"2024-01-16 00:00:00.0",
+            "fecha_fin":"2024-06-01 00:00:00.0"
+        }, 
+        {
+            "crn":"140934",
+            "clave_materia":"I7041",
+            "nombre_materia":"SEMINARIO DE SOLUCION DE PROBLEMAS DE INTELIGENCIA ARTIFICIAL II","seccion":"D04",
+            "creditos":"5",
+            "horario":"0700-0855",
+            "dias":"L",
+            "edificio":"DUCT1",
+            "aula":"LC01",
+            "profesor":"VILLASEÑOR PADILLA CARLOS ALBERTO",
+            "fecha_inicio":"2024-01-16 00:00:00.0",
+            "fecha_fin":"2024-06-01 00:00:00.0"
+        }, 
+        {
+            "crn":"140934",
+            "clave_materia":"I7041",
+            "nombre_materia":"SEMINARIO DE SOLUCION DE PROBLEMAS DE INTELIGENCIA ARTIFICIAL II","seccion":"D04",
+            "creditos":"5",
+            "horario":"0700-0855",
+            "dias":"I",
+            "edificio":"DUCT1",
+            "aula":"LC07",
+            "profesor":"VILLASEÑOR PADILLA CARLOS ALBERTO",
+            "fecha_inicio":"2024-01-16 00:00:00.0",
+            "fecha_fin":"2024-06-01 00:00:00.0"
+        }, 
+        {
+            "crn":"193719",
+            "clave_materia":"IL353",
+            "nombre_materia":"ADMINISTRACION DE PROYECTOS TECNOLOGICOS",
+            "seccion":"D07",
+            "creditos":"8",
+            "horario":"1700-1855",
+            "dias":"M,J",
+            "edificio":"DESV2",
+            "aula":"A047",
+            "profesor":"GIL RIVERA RUBEN ADRIAN",
+            "fecha_inicio":"2024-01-16 00:00:00.0",
+            "fecha_fin":"2024-06-01 00:00:00.0"
+        }, 
+        {
+            "crn":"194927",
+            "clave_materia":"I7040",
+            "nombre_materia":"INTELIGENCIA ARTIFICIAL II",
+            "seccion":"D05",
+            "creditos":"8",
+            "horario":"1300-1455",
+            "dias":"M,J",
+            "edificio":"DEDX",
+            "aula":"A001",
+            "profesor":"MORALES CASTAÑEDA JUAN BERNARDO",
+            "fecha_inicio":"2024-01-16 00:00:00.0",
+            "fecha_fin":"2024-06-01 00:00:00.0"
+        }
+    ]
+}

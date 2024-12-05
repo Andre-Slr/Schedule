@@ -1,0 +1,42 @@
+[
+    {
+        "nombre":"ANDRE SOLORZANO MALDONADO",
+        "carrera":[{
+            "cicloIngreso":"2023B",
+            "escuela":"CUCEI",
+            "descripcion":"INGENIERIA INFORMATICA",
+            "nivelDesc":"LICENCIATURA",
+            "ultimoCiclo":"2024V",
+            "clave":"INFO"
+            },
+            {"cicloIngreso":"2020A",
+            "escuela":"CUCEI",
+            "descripcion":"INGENIERIA EN COMPUTACION",
+            "nivelDesc":"LICENCIATURA",
+            "ultimoCiclo":"2022A",
+            "clave":"INCO"
+            }],
+        "tipoUsuario":"Alumno",
+        "estatus":"Activo"
+    },
+    {
+        "carrera": [{
+            "cicloIngreso": "2023B", 
+            "clave": "INFO", 
+            "descripcion": "INGENIERIA INFORMATICA", 
+            "escuela": "CUCEI", 
+            "nivelDesc": "LICENCIATURA", 
+            "ultimoCiclo": "2024V"
+            }, 
+            {"cicloIngreso": "2020A", 
+            "clave": "INCO", 
+            "descripcion": "INGENIERIA EN COMPUTACION", 
+            "escuela": "CUCEI", 
+            "nivelDesc": "LICENCIATURA", 
+            "ultimoCiclo": "2022A"
+            }], 
+        "estatus": "Activo",
+        "nombre": "ANDRE SOLORZANO MALDONADO", 
+        "tipoUsuario": "Alumno"
+    }
+]

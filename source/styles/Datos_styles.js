@@ -1,0 +1,71 @@
+import { StyleSheet } from "react-native";
+import { Const_styles } from "./Const_styles";
+
+export const Datos_styles = StyleSheet.create({
+    User_photo: {
+        height:180, 
+        width:150, 
+        marginHorizontal:'auto',
+        borderRadius: 10,
+    },
+    User_photo_not: {
+        height:180, 
+        width:150, 
+        marginHorizontal:'auto',
+        borderRadius: 10,
+        fontSize:25, 
+        backgroundColor: Const_styles.Color_3,
+        color: Const_styles.Color_4,
+        textAlign:'center',
+    },
+    Touch: {
+        width:150,
+        height:180,
+        marginHorizontal:'auto',
+        marginTop:-90,
+    },
+    Name:{
+        fontSize:20,
+        marginTop:10,
+        marginHorizontal:5,
+        height: 'auto',
+        color: Const_styles.Color_2,
+        fontWeight: '500',
+        textAlign: 'center',
+    },
+    Codigo:{
+        fontSize:16,
+        marginTop:5,
+        marginHorizontal:5,
+        height: 'auto',
+        color: Const_styles.Color_2,
+        fontWeight: '400',
+        textAlign: 'center',
+    },
+    Estatus:{
+        fontSize:16,
+        marginTop:5,
+        marginHorizontal:5,
+        height: 'auto',
+        color: Const_styles.Color_2,
+        fontWeight: '500',
+        textAlign: 'center',
+    },
+    Subtitulo:{
+        fontSize:10,
+        marginTop:10,
+        marginHorizontal:5,
+        height: 'auto',
+        color: Const_styles.Color_2,
+        fontWeight: '400',
+        textAlign: 'center',
+    },
+    Info:{
+        fontSize:18,
+        marginHorizontal:5,
+        height: 'auto',
+        color: Const_styles.Color_2,
+        fontWeight: '500',
+        textAlign: 'center',
+    },
+})
